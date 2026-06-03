@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows C Drive Cleanup"
+  short_description: "Safely analyze and clean Windows C: drive space."
+  default_prompt: "Analyze my Windows C: drive usage and recommend safe cleanup steps without deleting anything until I approve."
